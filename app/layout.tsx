@@ -45,12 +45,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Juadeb Gabriel - Designer and Developer",
     description:
-      "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+      "Hobby Designer and Software Engineer, currently at PluralCode Academy. Focused on immersive experiences, engaging new techies and ensuring business processes are enhanced.",
     url: "https://www.juadebgabriel.com/",
     siteName: "www.juadebgabriel.com",
     images: [
       {
-        url: "./public/metadata.jpg",
+        url: "./public/Metadata.png",
         width: 1200,
         height: 630,
         alt: "Juadeb Gabriel - Designer and Developer",
